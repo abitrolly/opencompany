@@ -6,6 +6,7 @@
 16:00  get back to eID application (stalled payment from $ card)
 16:30  recorded progress with grab the cards in #7
 16:45  (break) systems upgrade, GitHUb issues for Minsk Hackerspace
+17:20  get back to eID payment (#4)
 
 
 2016-01-02
