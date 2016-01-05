@@ -7,7 +7,7 @@
 16:00  uploaded $100 to card
 17:00  ordered additional € card to save on currency conversions and 
        and another card to get discount on online banking services
-
+17:45  (done) need to wait for a week or two to pick up cards (#7)
 
 2016-01-01
 
