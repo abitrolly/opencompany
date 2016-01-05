@@ -1,10 +1,17 @@
 ```
 
+2016-01-05
+
+13:00  sad news that there are no more Ian in DebIan reached me
+16:00  get back to eID application (stalled payment from $ card)
+16:30  recorded progress with grab the cards in #7
+
+
 2016-01-02
 
 13:00  set on a quest to resolve issues with bank and mobile operator
 15:00  the card balance was not enough due to yearly DreamHost charge
-16:00  uploaded $100 to card
+16:00  uploaded $100 to $ card
 17:00  ordered additional € card to save on currency conversions and 
        and another card to get discount on online banking services
 17:45  (done) need to wait for a week or two to pick up cards (#7)
