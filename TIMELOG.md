@@ -8,6 +8,7 @@
 16:45  (break) systems upgrade, GitHUb issues for Minsk Hackerspace
 17:20  get back to eID payment (#4)
 17:40  handled mail and organize message queue for opencompany
+18:40  (done) application filled, payment sent, waiting for approval
 
 
 2016-01-02
