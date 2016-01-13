@@ -2,18 +2,22 @@
 
 2016-01-13
 
-[ ] update status on e-Residency
+12:00  set off to query Priorbank for API (if they have that for
+       legal bodies)
+
+[ ] status update on e-Residency
 [ ] ...
 
 2016-01-12
 
 14:00  getting to bank through the snowstorm
 15:00  got and activated bank card #7
-16:00  Priorbank doesn't provive API for private banking, need to
+16:00  Priorbank doesn't provide API for private banking, need to
        investigate service for legal bodies
 17:00  bank closed
 18:00  discovered https://github.com/binlist/binlist-data - need to
-       get this to opendata.by feeds and  application to arise
+       get this to opendata.by feeds for card lookup validation,
+       add Belarussian banks, test data augmentation with logos etc.
 
 ...
 
