@@ -1,5 +1,26 @@
 ```
 
+2016-01-13
+
+[ ] update status on e-Residency
+[ ] ...
+
+2016-01-12
+
+14:00  getting to bank through the snowstorm
+15:00  got and activated bank card #7
+16:00  Priorbank doesn't provive API for private banking, need to
+       investigate service for legal bodies
+17:00  bank closed
+18:00  discovered https://github.com/binlist/binlist-data - need to
+       get this to opendata.by feeds and  application to arise
+
+...
+
+2016-01-06
+
+13:00  investigating H2020 potential
+
 2016-01-05
 
 13:00  sad news that there are no more Ian in DebIan reached me
