@@ -1,12 +1,38 @@
 ```
 
+2016-01-15
+
+plan
+
+[ ]  visit tax service
+[ ]  visit local authority office to see if we can get some cash for
+     professional journalism for opendata.by
+[ ]  there is a Zombie in MVO
+[ ]  help @techtonik receive money and pay taxes for Roundup Release
+
+2016-01-14
+
+12:00  visit to Revera Consulting, asking how to onboard @techtonik
+15:00  helpful and free for the first time, but 140 EUR/hour is too
+       expensive for subsequent requests
+16:00  local "Банк Развития" in Minsk doesn't sponsor development
+       projects in the region - as a bank it only gives credits that
+       should pay out, pointed to local authority innovation funds
+17:00  helping guys record video on FIBA training seminar in Minsk
+
 2016-01-13
 
-12:00  set off to query Priorbank for API (if they have that for
-       legal bodies)
+12:00  set off to query Priorbank for API
+14:00  no API for plain folks, no API for legal bodies, only email
+       balance reports that you can parse yourself (not signed)
+15:00  BelGazPromBank
+16:00  $38 for outcoming transfers is too much, [ ] check TransferWise
+       model as a product proposition and business enabler
+17:00  no API as well, only custom service development
 
 [ ] status update on e-Residency
 [ ] ...
+
 
 2016-01-12
 
