@@ -1,14 +1,38 @@
 ```
 
-2016-01-15
+2016-01-18
 
-plan
-
-[ ]  visit tax service
 [ ]  visit local authority office to see if we can get some cash for
      professional journalism for opendata.by
-[ ]  there is a Zombie in MVO
 [ ]  help @techtonik receive money and pay taxes for Roundup Release
+
+
+2016-01-16
+
+20:00  dealing with mail and facebook queue
+00:30  iterating over open law (rules) proposal
+01:30  logging the activities
+
+2016-01-15
+
+12:30  visit tax service #1, grab info about invoicing for personal
+       bussiness (ИМ) and legal nobodies (physical bodies)
+14:00  visit tax service #2, clarified donations vs business issues
+15:00  emergency call - a vampire spotted in MVO
+16:00  vampire was alarmed and escaped roaming the streets
+17:45  and eldery woman spotted on the way out of MVO asking what
+       time is it now. she is waiting for patrol to arrive, because
+       somebody wants to beat her
+18:00  visit to local coffee shop to investigate hate level
+18:15  first audial contact with vampire - subject possessed 52 lvl
+       body looking for revenge after being cut off the link in MVO.
+       CARS level 3 "order of offence" committed twice to silence
+       and break the contact. "redirect" (success), "service"
+       (failed), "evade" (failed), "resilience" (failed)
+19:30  sustained about 12 hours of spell damage from casted "terror",
+       "frighten", "interrupt spell", "draining touch", "confusion"
+       and "intimidate".
+20:00  going to tarantino hateful eight to replenish some health
 
 2016-01-14
 
@@ -30,9 +54,6 @@ plan
        model as a product proposition and business enabler
 17:00  no API as well, only custom service development
 
-[ ] status update on e-Residency
-[ ] ...
-
 
 2016-01-12
 
@@ -45,11 +66,19 @@ plan
        get this to opendata.by feeds for card lookup validation,
        add Belarussian banks, test data augmentation with logos etc.
 
-...
+2016-01-11
+
+13:00  the fee for e-Residency will raise to €100 from February
+
+
+... (holiday detox)
+
 
 2016-01-06
 
 13:00  investigating H2020 potential
+14:00  e-Residency application received, will get notified when
+       review process begins #4 issuecomment-169036717
 
 2016-01-05
 
