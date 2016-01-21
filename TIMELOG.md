@@ -1,11 +1,87 @@
 ```
 
+2016-01-21
+
+11:00  logging the activities
+12:00  add bank address to banks/ dataset
+13:00  logging the activities
+14:00  (break)
+15:45  logging the activities
+16:00  nethack 3.6.0 is released after 10 years. No way! Dumping data
+       learned so far - there might be no other chance.
+
+
+...
+
+[ ] document how @techtonik can pay taxes
+  [ ] find out his status (nobody, unemployed, ip, in a company)
+  [ ] find out how nobody can survive in Belarus
+  [ ] find out what unemployed need to pay
+    [ ] can get money for work only once per year
+      [ ] working twice means person is included in economy
+          gameplay and should be registered as a player (ip, or be in
+          a company) - need references
+      [ ] find out the consequences (fine, confiscations or worse)
+    [ ] can get gifts (дарение) unlimited times up to a certain sum
+      [ ] need refs
+      [ ] need sum
+      [ ] need legal requirements for marking "gift" transactions
+  [ ] find out how to get ip
+    [ ] find out limitations for being ip
+      [ ] not able to open an account in foreign bank
+[ ] writeup on requirements for receiving money
+  [ ] "sending money" attack on Belarussian companies and ips
+    [ ] send a 100 $1 transactions to DDoS company / ip
+  [ ] requirement for receiving money
+    [ ] bank account
+      [ ] currency of bank account
+      [ ] correspondent banks
+      [ ] different terms for ip / company
+        [ ] requirement to sell foreign currency - 30%
+          [ ] needref
+      [ ] fees
+        [ ] fees to receive
+        [ ] fees to get cash
+        [ ] fees to spend
+      [ ] money clearance (marking money as clean)
+        [ ] if bank supports validating each transfer with documents
+        [ ] "transaction account" where money are held
+    [ ] without bank account
+      [ ] paypal
+        [ ] fees
+        [ ] if it is legal for unemployed, ip, in a company
+      [ ] bitcoin
+      [ ] everything else
+        [ ] build a list
+          [ ] western union
+            [ ] describe how it works
+          [ ] others
+  [ ] tax payment
+    [ ] pay taxes as soons as possible
+      [ ] impossible - #needref
+      [ ] only possible in may of the next year
+      [ ] way to know you're doing it right earlier
+        [ ] 3rd party auditing
+        [ ] official tax check
+        [ ] #needref
+
+(action points depleted)
+...
+
+
 2016-01-18
 
-[ ]  visit local authority office to see if we can get some cash for
-     professional journalism for opendata.by
-[ ]  help @techtonik receive money and pay taxes for Roundup Release
+10:30  learning about digital signatures and email
+12:00  (break) tired
 
+2016-01-17
+
+11:00  creating invoice for @techtonik to help him receive money
+       for making Roundup release
+11:20  trying to figure out how to sign emails
+13:00  (break)
+14:00  looking for funding sources to support @techtonik (Horizon 2020
+       and innovation fund of local executive committees)
 
 2016-01-16
 
