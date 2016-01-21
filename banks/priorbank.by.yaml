@@ -2,6 +2,7 @@
 name: PRIORBANK
 home: https://www.priorbank.by
 swift: PJCBBY2X
+address: V. Khoruzhey str., 31A Minsk, Belarus
 sources:
  - https://www.priorbank.by/plateznye-rekvizity
 bins:
@@ -13,10 +14,12 @@ bins:
    bin: 9112 89
 correspondents:
  - currency: EUR
-   name: RAIFFEISEN BANK INTERNATIONAL AG, Vienna, Austria
+   name: RAIFFEISEN BANK INTERNATIONAL AG
    account: 55045512
    swift: RZBAATWW
+   address: Am Stadtpark 9, A-1030 Vienna, Austria
  - currency: EUR
-   name: COMMERZBANK, Frankfurt, Germany
+   name: COMMERZBANK
    account: 400886630301EUR
    swift: COBADEFF
+   address: Kaiserplatz D-60261 Frankfurt am Main
