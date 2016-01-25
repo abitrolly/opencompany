@@ -1,4 +1,42 @@
 ```
+2016-01-25
+
+13:00  handling mail queue
+13:30  cleaning up notes
+14:00  writing up the log
+14:30  (break) facebook
+16:15  writing log
+17:15  catched up with the log queue
+
+
+... (weekend detox)
+
+
+2016-01-23
+
+13:00  reading up on fundingoss.com
+14:00  discovered H2020 in open-funding among with other potential
+       funding sources
+15:00  (break)
+18:00  pull available RHVoice work into nlprocby community fork
+19:30  need to buy two way acrylic mirror for a dashboard
+21:00  further maintenance for RHVoice fork
+23:30  (done)
+
+
+2016-01-22
+
+[ ] record RHVoice merging
+[ ] record open funding
+[ ] record e-Residence application received
+[ ] record next steps for open company
+[ ] record online banking
+[ ] record open law access
+[ ] record reading mail
+[ ] record replying facebook
+
+[ ] write a report / story about physical body noag
+
 
 2016-01-21
 
@@ -67,6 +105,21 @@
 
 (action points depleted)
 ...
+
+2016-01-20
+
+06:00  update rulez project - https://github.com/abitrolly/rulez,
+       explore funding opportunities for rulez
+       https://github.com/abitrolly/rulez/issues/4
+13:00  reading on Nadia Eghbal OSS funding research, which is what this
+       project is trying to solve for one particular country (and more)
+14:00  updating Horizon 2020 status
+16:00  sending invoice for Roundup release with neccessary bank account
+       details
+18:00  (break) setting off to watch Tedzi with Minsk game jammers
+
+
+... (middle week detox)
 
 
 2016-01-18
