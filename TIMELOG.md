@@ -14,8 +14,10 @@
 22:00  Priorbank doesn't have data export from accounts !
 22:15  review complete, enabling USSD/SMS reports
 22:30  USSD enabled, now going to buy XCOM in Humble Bundle
+22:45  e-Residency granted (mail processed, updated #4)
 23:30  no XCOM, posted small summary and that e-Residence fee
        warning to Facebook
+
 
 2016-01-25
 
@@ -46,11 +48,8 @@
 
 [ ] record RHVoice merging
 [ ] record open funding
-[ ] record e-Residence application received
 [ ] record next steps for open company
 [ ] record open law access
-[ ] record reading mail
-[ ] record replying facebook
 
 [ ] write a report / story about physical body noag
 
@@ -134,6 +133,7 @@
 16:00  sending invoice for Roundup release with neccessary bank account
        details
 18:00  (break) setting off to watch Tedzi with Minsk game jammers
+20:15  e-Residency granted (mail received)
 
 
 ... (middle week detox)
