@@ -13,7 +13,7 @@
 21:45  Priorbank bank review (#9)
 22:00  Priorbank doesn't have data export from accounts !
 22:15  review complete, enabling USSD/SMS reports
-
+22:30  USSD enabled, now going to buy XCOM in Humble Bundle
 
 2016-01-25
 
