@@ -14,6 +14,8 @@
 22:00  Priorbank doesn't have data export from accounts !
 22:15  review complete, enabling USSD/SMS reports
 22:30  USSD enabled, now going to buy XCOM in Humble Bundle
+23:30  no XCOM, posted small summary and that e-Residence fee
+       warning to Facebook
 
 2016-01-25
 
