@@ -1,4 +1,20 @@
 ```
+
+2016-01-26
+
+10:00  enabled online Priorbanking, but USSD/SMS doesn't work
+10:30  chatting with support service about fees for USSD/SMS
+       service and how to get reports in sane format (not RTF)
+11:00  getting new 10/5 Mbit uplink channel
+16:00  (break) uplink established, went to sleep
+18:00  met friends in athletic center (doing body recovery
+       excercices using Goltis impulse system)
+21:30  writeup on day close
+21:45  Priorbank bank review (#9)
+22:00  Priorbank doesn't have data export from accounts !
+22:15  review complete, enabling USSD/SMS reports
+
+
 2016-01-25
 
 13:00  handling mail queue
@@ -30,7 +46,6 @@
 [ ] record open funding
 [ ] record e-Residence application received
 [ ] record next steps for open company
-[ ] record online banking
 [ ] record open law access
 [ ] record reading mail
 [ ] record replying facebook
