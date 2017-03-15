@@ -21,3 +21,4 @@ USD 136.1
 14:45  tried to figure out where 0.003 BYN comes from, payment
        to bank came from domain.by, sum exacly 50.40, so it must be
        rounding mistakes
+15:00  (break) take a walk, grab some food by cash
