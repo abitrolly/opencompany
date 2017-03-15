@@ -15,3 +15,9 @@ USD 136.1
 >>>
 ```
 13:35  checked card balance and opened (#20)
+14:15  paid for mp.by (#19) 50.40 BYN to domain.by thru paysec.by
+       with 6141. Got 26.5 USD withdrawn, which is 50.403 BYN using
+       1.9020 Priorbank card conversion rate
+14:45  tried to figure out where 0.003 BYN comes from, payment
+       to bank came from domain.by, sum exacly 50.40, so it must be
+       rounding mistakes
