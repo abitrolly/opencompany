@@ -1,4 +1,9 @@
 """
+Cards data
+
+    >>> from cards import balance
+    >>> balance()
+
 """
 
 import csv
