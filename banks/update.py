@@ -1,5 +1,5 @@
 """
-Parse bank data from http://www.nbrb.by/engl/system/banks.asp
+Parse bank data from https://www.nbrb.by/system/banks/list
 """
 
 class BankData:
